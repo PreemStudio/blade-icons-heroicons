@@ -1,11 +1,14 @@
 {
     "name": "preemstudio/blade-icons-heroicons",
-    "description": "A package to easily make use of Heroicons in your Laravel Blade views.",
+    "description": "A package to easily make use of Heroicons with Laravel Blade Icons.",
     "license": "MIT",
     "keywords": [
         "PreemStudio",
         "laravel",
-        "package_slug"
+        "blade",
+        "blade-icons",
+        "blade-icons-heroicons",
+        "heroicons"
     ],
     "authors": [
         {

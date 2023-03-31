@@ -5,7 +5,7 @@
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/preemstudio/blade-icons-heroicons/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/preemstudio/blade-icons-heroicons/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/preemstudio/blade-icons-heroicons.svg?style=flat-square)](https://packagist.org/packages/preemstudio/blade-icons-heroicons)
 
-A package to easily make use of [Heroicons](https://heroicons.com/) in your Laravel Blade views.
+A package to easily make use of [Heroicons](https://heroicons.com/) with Laravel Blade Icons.
 
 ## Installation
 
