@@ -1,8 +1,8 @@
 # Heroicons
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/preemstudio/blade-icons-heroicons.svg?style=flat-square)](https://packagist.org/packages/preemstudio/blade-icons-heroicons)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/preemstudio/blade-icons-heroicons/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/preemstudio/blade-icons-heroicons/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/preemstudio/blade-icons-heroicons/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/preemstudio/blade-icons-heroicons/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/preemstudio/blade-icons-heroicons/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/PreemStudio/blade-icons-heroicons/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/preemstudio/blade-icons-heroicons/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/PreemStudio/blade-icons-heroicons/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/preemstudio/blade-icons-heroicons.svg?style=flat-square)](https://packagist.org/packages/preemstudio/blade-icons-heroicons)
 
 A package to easily make use of [Heroicons](https://heroicons.com/) with Laravel Blade Icons.
@@ -15,15 +15,12 @@ You can install the package via composer:
 composer require preemstudio/blade-icons-heroicons
 ```
 
-You can publish the config file with:
-
-```bash
-php artisan vendor:publish --tag=blade-icons-heroicons-config
-```
-
 ## Usage
 
-This package utilizes Blade Icons under the hood. For additional functionality, please refer to the [Blade Icons README](https://github.com/PreemStudio/blade-icons). The prefix for all icons in this package is `heroicons`, with specific sets available as `heroicons-mini`, `heroicons-outline`, and `heroicons-solid`.
+> **Note**
+> Please refer to the [Blade Icons](https://github.com/PreemStudio/blade-icons) documentation for more information on how to use this package.
+
+The prefix for all icon families in this package is `heroicons`. Please refer to the [resources/svg](/resources/svg) directory for a list of available styles.
 
 ## Testing
 
